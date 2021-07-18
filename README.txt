@@ -1,5 +1,3 @@
-# dunnHumby
-
 dunnHumby Hiring Challenge (DevOps Engineer)
 =======================================================================
 
@@ -18,7 +16,7 @@ And before proceeding further, I request you to watch attached video first for b
 =======================================================================
 1. Understanding the Modules (Video 00:25 - 04:05):
 =======================================================================
-As I mentioned earlier that, I have divided the whole infrastructure into 4 different modules. Let us now go through each of them briefly to see what function they will perform.
+The whole infrastructure into 4 different modules. The brief description of each module is given below.
 
 For better understanding please watch the attached video
 
@@ -182,4 +180,3 @@ c.	Project ID (Video 05:30 - 05:45):
         CMD: terraform destroy -auto-approve
 
 =======================================================================
-
