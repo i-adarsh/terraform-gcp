@@ -1,5 +1,3 @@
-# dunnHumby
-
 dunnHumby Hiring Challenge (DevOps Engineer)
 =======================================================================
 
@@ -182,4 +180,3 @@ c.	Project ID (Video 05:30 - 05:45):
         CMD: terraform destroy -auto-approve
 
 =======================================================================
-
