@@ -1,4 +1,4 @@
-devops Hiring Challenge (DevOps Engineer)
+devops  Challenge (DevOps Engineer)
 =======================================================================
 
 As mentioned in the Challenge, I have created the same infrastructure deployment, that will perform all the tasks mentioned in the Challenge.
