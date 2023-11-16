@@ -22,10 +22,10 @@ sudo apt install wget -y
 sudo docker pull nginx:stable
 
 # Launching New Container
-sudo docker run -dit -p 8080:80 --name=dunhummby nginx:stable
+sudo docker run -dit -p 8080:80 --name=nginx-container nginx:stable
 
 # Making Restart Script so that docker services continues running even after restart
-sudo echo -e '#!/bin/bash\nsudo docker start dunhummby' >> /restartService.sh
+sudo echo -e '#!/bin/bash\nsudo docker start nginx-container' >> /restartService.sh
 
 # Making Script Executable
 sudo chmod +x /restartService.sh

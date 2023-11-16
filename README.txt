@@ -1,4 +1,4 @@
-dunnHumby Hiring Challenge (DevOps Engineer)
+devops Hiring Challenge (DevOps Engineer)
 =======================================================================
 
 As mentioned in the Challenge, I have created the same infrastructure deployment, that will perform all the tasks mentioned in the Challenge.
@@ -146,7 +146,7 @@ c.	Project ID (Video 05:30 - 05:45):
 3.  How to run the Terraform Script (Video 06:05 - 06:45)?
 =======================================================================
 
-    • Unzip the dunnHumby.zip, open the terminal and go inside our main module folder (cd Dunnhumby/main/) 
+    • Unzip the devops.zip, open the terminal and go inside our main module folder (cd devops/main/) 
       and here type the command:
 
         CMD: terraform init

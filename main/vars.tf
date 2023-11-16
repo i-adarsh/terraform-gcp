@@ -26,14 +26,14 @@ variable "region" {
 # Name of your Virtual Private Cloud (VPC)
 variable "vpc_name" {
     type = string
-    default = "dunnhumby-vpc"
+    default = "devops-vpc"
     description = "Name of your Virtual Private Cloud (VPC)"
 }
 
 # Name of your Subnetwork inside the VPC
 variable "subnet_name" {
     type = string
-    default = "dunnhumby-subnet"
+    default = "devops-subnet"
     description = "Name of your Subnetwork"
 }
 
@@ -53,7 +53,7 @@ variable "permissions" {
 # Name of the Bucket to be Created (It should be Unique)
 variable "bucket_name" {
     type = string
-    default = "dunnhumby_adarsh_kumar"
+    default = "adarsh_kumar"
     description = "Name of Your Bucket (It should be Unique)"
 }
 
